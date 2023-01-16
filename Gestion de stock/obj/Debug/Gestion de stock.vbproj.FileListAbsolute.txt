@@ -1,0 +1,13 @@
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\bin\Debug\Gestion de stock.exe.config
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\bin\Debug\Gestion de stock.exe
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\bin\Debug\Gestion de stock.pdb
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\bin\Debug\Gestion de stock.xml
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.vbprojAssemblyReference.cache
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.Form1.resources
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.Resources.resources
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.vbproj.GenerateResource.cache
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.vbproj.CoreCompileInputs.cache
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.vbproj.CopyComplete
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.exe
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.xml
+C:\Users\Yepy\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.pdb
